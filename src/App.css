@@ -16,7 +16,7 @@
     height: 330px;
     flex-wrap: wrap;
     align-items: center;
-    /*cursor: url("piz_normal_p1.cur"), auto ;*/
+    cursor: url("piz.cur"), auto ;
 }
 
 .item{
